@@ -1,0 +1,14 @@
+{
+  "code": 553,
+  "name": "5.5.3",
+  "desc": "\u4f18\u5316\u9ed8\u8ba4\u914d\u7f6e\n\u4f18\u5316\u9996\u9875\u5165\u53e3\u4ea4\u4e92\n\u4f18\u5316\u66f4\u65b0\u68c0\u6d4b\u7a33\u5b9a\u6027",
+  "apk": {
+    "arm64_v8a": "https://github.com/SimonWang911/nnok-tv-release/releases/download/v5.5.3-nnok/NNOK-leanback-arm64_v8a.apk",
+    "armeabi_v7a": "https://github.com/SimonWang911/nnok-tv-release/releases/download/v5.5.3-nnok/NNOK-leanback-armeabi_v7a.apk"
+  },
+  "proxies": [
+    "https://gh-proxy.com/",
+    "https://wget.la/",
+    "https://ghfast.top/"
+  ]
+}
